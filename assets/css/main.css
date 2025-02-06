@@ -1021,6 +1021,15 @@ input, select, textarea {
 			object-fit: cover;
 		  }
 
+		.qrcode {
+			vertical-align: middle;
+			width: 300px;
+			height: 300px;
+			border-radius: 10%;
+			border: 10px solid rgb(255,255,255);
+			object-fit: cover;
+		}
+
 	.responsive {
 	  width: 100%;
 	  max-width: 400px;
